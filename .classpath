@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="SlickMouseEscape2/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="lib/dyn4j-v3.1.8.jar"/>
+	<classpathentry kind="lib" path="lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/natives-linux.jar"/>
+	<classpathentry kind="lib" path="lib/natives-mac.jar"/>
+	<classpathentry kind="lib" path="lib/natives-windows.jar"/>
+	<classpathentry kind="lib" path="lib/slick.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

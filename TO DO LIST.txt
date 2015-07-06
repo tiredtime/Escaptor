@@ -1,0 +1,6 @@
+1. tests for mover
+2. screens refactoring
+3. making screens for each gameObject
+4. Creating object at a certain time once
+5. bullet
+6. delete out of bounds objects

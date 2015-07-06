@@ -1,0 +1,43 @@
+daug lygiu, ir uzsidirbi pinigu ir galima pirkti visokius upgreidus, gyvybes (labai brangios ir gal vienkartinës), pasislëpimas vienam kartui. Pinigus gauni uz buvima tam tikrose zonose. Tikslas - iskenteti visa lygi. Kai gauni smugi, bûtinai turi bûti garsas. Yra ir paprasta versija be lygiø ir t.t. kur tik pelës judinimas svarbu.
+
+namai, kuriuose saugu
+
+real-time, be lygiu, shop yra vieta ekrane, work yra vieta ekrane
+
+
+AbstractFactory gamui sukurti. Options jam nusetina ta klase
+
+shoot from right leg, virðuje mygtuko uþraðas
+
+ginklø slotai. pirmas ginklas su kairiu pelës mygtuku, antras su deðiniu, t.t. Jei paspaudæs klaviðà pelæ velki, tai tas kokià nors ten sienà brëþia
+
+Kiekvienas menu turi funkcija draw
+Yra ActiveScreenItem kintamasis
+
+
+graphics moduli peruploadini ir tada visiðkai kita grafika
+Enemies moduli peruploadini ir tada visiðkai kiti enemies
+GameEnvironment
+Difficulty
+Level
+
+superklaseje - isPlayerCollidedWithBoundingBox() - pagal height ir width
+konkrecioje - isPlayerCollided()
+
+burbulas kuriame letesnis laikas ir ramesne muzika
+
+levelless mode galima ne tik lygá uþsistatyti, bet ir sekundæ, nuo kurios pradëti
+
+kitokia muzika, kai pinigu gavimo vietoje
+
+getCollisionImpact in GameObject
+
+
+metodai impact on health ir pan. statiniai. Taip pat graþina "difficulty" statinæ reikðmæ, kuri naudojama nuspræsti, koks objektas bus sukurtas toliau. Gali buti ir neigiama reikðmë. 
+
+\interface colliderWIthPlayer
+static helperis kuria ið txt failø poligonus. Komentaras, kaip poligonai gauti
+
+monetos ir doleriai krinta
+
+gc tik konstruktoriuje
